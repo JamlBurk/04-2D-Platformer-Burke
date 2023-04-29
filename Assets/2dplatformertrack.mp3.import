@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2dplatformertrack.mp3-95a743e7bf6194962b6e4d91c928e53f.mp3str"
+
+[deps]
+
+source_file="res://Assets/2dplatformertrack.mp3"
+dest_files=[ "res://.import/2dplatformertrack.mp3-95a743e7bf6194962b6e4d91c928e53f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
